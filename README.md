@@ -229,14 +229,6 @@ lib/
 - Embedded YouTube video player (currently links open externally)
 - Favorite toggle animations
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
 Developed as part of an internship assignment showcasing Flutter development skills, clean architecture, and modern mobile app development practices.
